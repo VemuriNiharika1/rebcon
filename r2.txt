@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 r2.txt file in main branch..
+=======
+THIS IS A FILE OF R2.TXT IN FB....
+>>>>>>> 9d50032 (FILE OF R2.TXT IN FB)
